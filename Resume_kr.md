@@ -9,7 +9,7 @@
 
 ### 보유 기술
 - 백엔드
-  - JAVA 17
+  - JAVA 11
   - SpringBoot, Spring data JPA
   - MySQL : 쿼리 작성 및 인덱스 활용 가능
 
@@ -21,17 +21,20 @@
 - KKINI는 동네에서 밥 친구를 만들고 싶은 사람, 혼자 가기 힘든 음식점을 가고 싶은 사람, 나만의 맛집을 공유하고 싶은 사람들이 모임을 결성하고 참여할 수 있는 서비스입니다.
 
 #### 개발 환경
-- JDK 17, Gralde 7.6, Spring Boot 2.7.8, MySQL, Spring Data JPA
+- JDK 17: 
+- Spring Boot 2.7.8
+- MySQL: 쿼리 작성및 인덱스 활용 가능
+- Spring Data JPA: 
 
 #### 주요 기능 및 구현사항 소개
 
-#### 교육
+## 교육
 
-#### 교육과정
+### 교육과정
 
-#### 링크 :[백엔드 데브코스](https://school.programmers.co.kr/learn/courses/16622/16622-4%EA%B8%B0-k-digital-training-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EA%B8%B0%EB%B0%98-%EB%B0%B1%EC%97%94%EB%93%9C-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81)
+### 링크 :[백엔드 데브코스](https://school.programmers.co.kr/learn/courses/16622/16622-4%EA%B8%B0-k-digital-training-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EA%B8%B0%EB%B0%98-%EB%B0%B1%EC%97%94%EB%93%9C-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81)
 
-#### 스터디
+## 스터디
 
 2022.10 ~ 2022.11 디자인 패턴 스터디(5명)
 
