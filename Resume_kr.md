@@ -24,6 +24,8 @@
 - JDK 17, Spring Boot 2.7.8, MySQL, Spring Data JPA
 
 #### 주요 기능 및 구현사항 소개
+- 페이지네이션 성능 개선 (예정)
+
 
 ## 교육
 
