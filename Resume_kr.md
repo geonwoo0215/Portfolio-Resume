@@ -9,8 +9,8 @@
 
 ### 보유 기술
 - 백엔드
-  - JAVA 11
-  - SpringBoot, Spring data JPA
+  - JAVA 17: Switch 표현식과, recoard를 사용하여 프로젝트 개발
+  - SpringBoot, Spring DATA JPA : Rest API 설계 및 개발 
   - MySQL : 쿼리 작성 및 인덱스 활용 가능
 
 ## 프로젝트
@@ -21,10 +21,7 @@
 - KKINI는 동네에서 밥 친구를 만들고 싶은 사람, 혼자 가기 힘든 음식점을 가고 싶은 사람, 나만의 맛집을 공유하고 싶은 사람들이 모임을 결성하고 참여할 수 있는 서비스입니다.
 
 #### 개발 환경
-- JDK 17: 
-- Spring Boot 2.7.8
-- MySQL: 쿼리 작성및 인덱스 활용 가능
-- Spring Data JPA: 
+- JDK 17, Spring Boot 2.7.8, MySQL, Spring Data JPA
 
 #### 주요 기능 및 구현사항 소개
 
@@ -42,7 +39,6 @@
 
 2022.10 ~ 2022.11 디자인 패턴 스터디(5명)
 
-  
 ##### 깃허브 링크 [디자인 패턴 스터디](https://github.com/Pre-FTeam/design-pattern)
 
 2022.11 ~ 2023.01 면접을 위한 CS 전공지식 노트 책 스터디 (5명)
