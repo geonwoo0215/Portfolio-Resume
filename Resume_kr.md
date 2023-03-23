@@ -21,7 +21,7 @@
 - KKINI는 동네에서 밥 친구를 만들고 싶은 사람, 혼자 가기 힘든 음식점을 가고 싶은 사람, 나만의 맛집을 공유하고 싶은 사람들이 모임을 결성하고 참여할 수 있는 서비스입니다.
 
 #### 개발 환경
-- JDK 17, Spring Boot 2.7.8, MySQL, Spring Data JPA
+- JDK 17, Spring Boot, MySQL, Spring Data JPA
 
 #### 주요 기능 및 구현사항 소개
 - 페이지네이션 성능 개선 (예정)
