@@ -31,6 +31,10 @@
 ## 교육
 
 ### 교육과정
+- Spring 및 Spring 프레임워크를 이용하여 서비스에 필요한 서버를 구현
+- GitHub, Notion, Slack 등 다양한 협업 툴을 활용하여 팀 프로젝트를 진행하며 효율적인 소통 방식
+- HTTP, 쿠키, 세션, 데이터베이스, 네트워크와 같은 CS 지식 학습
+
 
 ### 링크 :[백엔드 데브코스](https://school.programmers.co.kr/learn/courses/16622/16622-4%EA%B8%B0-k-digital-training-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EA%B8%B0%EB%B0%98-%EB%B0%B1%EC%97%94%EB%93%9C-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81)
 
