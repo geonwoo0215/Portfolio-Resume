@@ -44,3 +44,7 @@
 2022.11 ~ 2023.01 면접을 위한 CS 전공지식 노트 책 스터디 (5명)
 
 ##### 깃허브 링크 [면접을 위한 CS 전공지식 노트 책 스터디](https://github.com/prgrms-web-devcourse/Team-BlackDog-CS-Book-Study) 
+
+2023.02 ~ 2023.02 발표 스터디
+
+##### 유튜브 링크 [OSIV - 이건우](https://www.youtube.com/watch?v=PNnB8mN0v-o)
